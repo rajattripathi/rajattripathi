@@ -136,7 +136,6 @@ I'm always interested in discussing:
 📫 **Contact**: 
 - **Email**: [rajat.tripathi.nitj@gmail.com](mailto:rajat.tripathi.nitj@gmail.com)
 - **LinkedIn**: [linkedin.com/in/rajattripathi](https://www.linkedin.com/in/rajattripathi)
-- **Phone**: +91-8439152565
 - **GitHub**: [@rajattripathi](https://github.com/rajattripathi)
 
 ---
